@@ -4,6 +4,7 @@
 
 	❯ cd 1-hello-world
 
+
 	❯ vim send.py
 	
 		import pika
