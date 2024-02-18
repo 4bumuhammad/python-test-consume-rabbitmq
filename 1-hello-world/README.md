@@ -6,11 +6,11 @@
 
 ### Test send message
 	❯ python3 send.py
-	op:
+		op:
 		[x] Sent 'Hello World!'
 			
 ### Test received messages
 		❯ python3 receive.py
 		op:
-			[*] Waiting for messages. To exit press CTRL+C
-			[x] Received b'Hello World'
+		[*] Waiting for messages. To exit press CTRL+C
+		[x] Received b'Hello World'
