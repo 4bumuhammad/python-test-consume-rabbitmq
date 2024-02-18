@@ -5,7 +5,7 @@
 ---
 ## Containerize rabbit-mq
 
-### commnad (terminal) :
+### command (terminal) :
 	❯ docker-compose up -d
 
 ### buka Browser dan go alamat berikut :
