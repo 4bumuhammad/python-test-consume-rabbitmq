@@ -29,3 +29,7 @@
 		op:
 		[*] Waiting for messages. To exit press CTRL+C
 		[x] Received b'Hello World'
+
+<p align="center">
+    <img src="./result - consume roundrobin with Synchronous.png" alt="image consume roundrobin with Synchronous" style="display: block; margin: 0 auto;">
+</p>
