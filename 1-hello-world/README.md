@@ -10,7 +10,7 @@
 		[x] Sent 'Hello World!'
 			
 ### Test received messages
-		❯ python3 receive.py
+	❯ python3 receive.py
 		op:
 		[*] Waiting for messages. To exit press CTRL+C
 		[x] Received b'Hello World'
