@@ -32,5 +32,5 @@
     ❯ python3 send.py Message1....
 
 <p align="center">
-    <img src="./result - consume roundrobin with Asynchronous" alt="image consume roundrobin with Synchronous" style="display: block; margin: 0 auto;">
+    <img src="./result - consume roundrobin with Asynchronous" alt="image consume roundrobin with Asynchronous" style="display: block; margin: 0 auto;">
 </p>
