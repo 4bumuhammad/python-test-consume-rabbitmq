@@ -1,7 +1,11 @@
-# Jalankan command pada Terminal :
-$ docker-compose up -d
+# python-test-consume-rabbitmq
 
-# Open Browser
-URL http://localhost:15672
-user : guest
-password : guest
+---
+
+### commnad (terminal) :
+	❯ docker-compose up -d
+
+### buka Browser dan go alamat berikut :
+	URL http://localhost:15672
+	user : guest
+	password : guest
