@@ -6,9 +6,8 @@ print("bismillah, python with pika for connection to rabbitmq")
 
 credentials = pika.PlainCredentials('powerbiz_web_app', '4gqY2VB3728WADuTV5Pd8HGB')
 
-## endpoint aws-beta : a0c5e86b7271940a992222e1307f4b54-360497618.ap-southeast-1.elb.amazonaws.com
 ## endpoint Docker-desktop : localhost
-#   
+
 parameters = pika.ConnectionParameters('localhost',
                                    5672,
                                    '/',
