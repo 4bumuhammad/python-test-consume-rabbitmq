@@ -1,3 +1,7 @@
+# 4-rabbitmq_pika_username_password
+
+---
+
 view docker config
 
     ❯ docker-compose config
@@ -26,7 +30,7 @@ struktur files :
 
         print("bismillah, python with pika for connection to rabbitmq")
 
-        credentials = pika.PlainCredentials('powerbiz_web_app', '4gqY2VB3728WADuTV5Pd8HGB')
+        credentials = pika.PlainCredentials('powerbiz_web_app', 'BRwVUkVTekEbtHS4Xt9Xrqeg')
 
         parameters = pika.ConnectionParameters('localhost',
                                         5672,
@@ -67,7 +71,7 @@ struktur files :
         def main():
             print("bismillah, python with pika for connection to rabbitmq")
 
-            credentials = pika.PlainCredentials('powerbiz_web_app', '4gqY2VB3728WADuTV5Pd8HGB')
+            credentials = pika.PlainCredentials('powerbiz_web_app', 'BRwVUkVTekEbtHS4Xt9Xrqeg')
 
             parameters = pika.ConnectionParameters('localhost',
                                             5672,
