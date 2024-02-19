@@ -1,6 +1,10 @@
+
+<p align="center">
+    <img src="./rabbitmq_logo.png" alt="rabbitmq_logo" style="display: block; margin: 0 auto;">
+</p>
+
+
 # python-test-consume-rabbitmq
-
-
 
 ---
 ## Containerize rabbit-mq
