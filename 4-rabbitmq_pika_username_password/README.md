@@ -19,6 +19,7 @@ struktur files :
 ### code
 
     ❯ vim sendmessage_rabbitmq_with_credentials.py
+    
         import pika
         import time
         import datetime
